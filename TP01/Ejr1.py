@@ -17,14 +17,14 @@ def num_mayorstr(a, b, c):
     return -1
 
 
-def valores():
-    a = int(input("Ingrese el primer valor POSITIVO: "))
-    b = int(input("Ingrese el segundo valor POSITIVO: "))
-    c = int(input("Ingrese el tercer valor POSITIVO: "))
+def numeros():
+    a = int(input("Ingrese el primer valor: "))
+    b = int(input("Ingrese el segundo valor: "))
+    c = int(input("Ingrese el tercer valor: "))
     mayor = num_mayorstr(a, b, c)
     if mayor != -1:
         print(f"El número mayor es {mayor}")
     else:
         print("No existe un número mayor estricto.")
 
-valores()
+numeros()
