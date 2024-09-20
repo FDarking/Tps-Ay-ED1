@@ -1,9 +1,9 @@
-Equipo,Nombre,Apellido,DNI,
-Equipo A,Juan,Pérez,12.345.678,
-Equipo A,Ana,Gómez,23.456.789,
-Equipo A,Luis,Martínez,34.567.890,
-Equipo A,Carmen,Díaz,45.678.901,
-Equipo A,Ricardo,Torres,56.789.012,
+Equipo,Nombre,Apellido,DNI,Juegos
+Equipo A,Juan,Pérez,12.345.678,Counter
+Equipo A,Ana,Gómez,23.456.789,Valorant
+Equipo A,Luis,Martínez,34.567.890,Lol
+Equipo A,Carmen,Díaz,45.678.901,Rainbow 6s
+Equipo A,Ricardo,Torres,56.789.012,Overwatch
 Equipo B,Marta,López,67.890.123,
 Equipo B,Diego,Fernández,78.901.234,
 Equipo B,Sofía,Ramírez,89.012.345,
