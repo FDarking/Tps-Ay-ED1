@@ -41,4 +41,4 @@ def cajero_vuelto(monto_venta, monto_pagado):
 # Bloque principal
 monto_venta = int(input("Ingrese el monto de la venta: "))
 monto_pagado = int(input("Ingrese el monto que pagó el cliente: "))
-calcular_vuelto(monto_venta, monto_pagado)
+cajero_vuelto(monto_venta, monto_pagado)
