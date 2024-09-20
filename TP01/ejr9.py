@@ -64,6 +64,7 @@ def main():
         print(f"Camiones necesarios para el transporte: {camiones_necesarios}")
     else:
         print("No se necesitan camiones para el transporte, no se cumple la ocupación mínima.")
-#BP
+        
 if __name__ == "__main__":
+    #BP
     main()
