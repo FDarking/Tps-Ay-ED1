@@ -24,13 +24,11 @@ def diadelasemana(dia, mes, año):
     return diasem
 
 def dias_en_mes(mes: int, año: int) -> int:
-    """Devuelve la cantidad de días que contiene el mes."""
     if mes == 2: 
         return 29 if (año % 4 == 0 and (año % 100 != 0 or año % 400 == 0)) else 28
     return 30 if mes in [4, 6, 9, 11] else 31
 
 def imprimir_calendario(mes: int, año: int) -> None:
-    """Imprime el calendario del mes y año especificados."""
     dias_semana = ["Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab"]
     
     primer_dia = diadelasemana(1, mes, año)
