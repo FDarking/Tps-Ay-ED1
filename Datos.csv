@@ -1,5 +1,5 @@
-"EQUIPO;NOMBRE;APELLIDO;DNI";NOMBRE
-"Equipo A , Juan,""Pérez"" ,"" 12.345.678""";Juan
+"ID,NOMBRE,APELLIDO,DNI,LOCALIDAD,PROVINCIA,CALLE,NUMERO,PISO,DPTO,TELEFONO,MAIL";NOMBRE
+"1,Juan,""Pérez"",12345674,Castelar,""Buenos Aires"",""Av. de Mayo"",123,,,""+54 02255 1234567"",""juan.perez@gmail.com""";
 "Equipo A,Ana, ""Gómez"""",23.456.789""";
 "Equipo A,Luis Martínez,34.567.890";
 "Equipo A,Carmen Díaz,45.678.901";
