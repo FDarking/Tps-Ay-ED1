@@ -32,7 +32,7 @@ def eliminar_valor(lista, valor):
 def es_capicua(lista):
     return lista == lista[::-1]
 
-def main():
+def lista():
     lista_numeros = cargar_lista()
     print("Lista cargada:", lista_numeros)
 
@@ -50,4 +50,4 @@ def main():
 
 if __name__ == "__main__":
 #BP
-    main()
+    lista()

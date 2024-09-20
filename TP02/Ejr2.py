@@ -21,7 +21,7 @@ def tiene_elementos_repetidos(lista):
 def elementos_unicos(lista):
     return list(set(lista))
 
-def main():
+def lista():
     n = int(input("Ingrese la cantidad de números aleatorios a generar: "))
     lista_numeros = generar_lista(n)
     print("Lista generada:", lista_numeros)
@@ -36,4 +36,4 @@ def main():
 
 if __name__ == "__main__":
     #BP
-    main()
+    lista()
