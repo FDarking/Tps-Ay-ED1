@@ -7,7 +7,7 @@ facilidades de Python no vistas en clase.
 
 
 def concatenar(a: int, b: int):
-    # Concatena dos números enteros cambiandolos a string y luego los retorna como int.
+    # Concatena dos números enteros cambiandolos a string y luego los retorna como intero.
     c = str(a) + str(b)
     return int(c)
 
